@@ -16,4 +16,6 @@ int main()
 		}
 		cout << endl;
 	}
+
+	cout << "GitHubŒ™‚¢Œ™‚¢–¯" << endl;
 }
